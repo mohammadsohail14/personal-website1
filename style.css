@@ -1,0 +1,61 @@
+.header{
+    color:rgb(255, 152, 152);
+}
+.topcontainer{
+    background-color: #330000;
+}
+#mynametext{
+    font-family: 'Orbitron', sans-serif;
+    color:rgb(255, 152, 152);
+}
+.moneyheistimg{
+    border-radius: 50%;
+}
+.hello{
+    color: #ae5353;
+    font-family: 'Orbitron', sans-serif;
+}
+.mydes{
+    color: #ae5353;
+}
+.featuress{
+    font-family: 'Orbitron', sans-serif;
+}
+.lwd{
+    color: #d24343;
+    font-family: 'Orbitron', sans-serif; 
+    font-size: 20pt;
+}
+.lwdd{
+    color: #ae5353;
+    font-family: 'Orbitron', sans-serif; 
+    font-size: 12pt;
+    font-weight: lighter;
+}  
+.skills{
+    color:  #ae5353;
+    font-family: 'Orbitron', sans-serif; 
+}
+.jumbotron {
+    color: #d24343;
+    font-family: 'Orbitron', sans-serif; 
+    font-size: 30pt;
+
+}
+.jumbotronpara{
+    color: #ae5353;
+    font-family: 'Orbitron', sans-serif; 
+    font-size: 12pt;
+    font-weight: lighter;
+}
+
+.bottomcontainer{
+    background-color: #330000;
+    color:rgb(255, 152, 152);
+    font-family: 'Orbitron', sans-serif; 
+    font-size: 12pt;
+    font-weight: lighter;
+}
+.nav-link{
+    color:rgb(255, 152, 152);
+}
